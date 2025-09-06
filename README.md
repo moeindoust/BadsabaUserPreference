@@ -91,8 +91,8 @@
 
 ۱. **کلون کردن ریپازیتوری:**
 ```bash
-git clone https://github.com/moeindoust/BadsabaUserPreference.git
-cd BadsabaUserPreference
+git clone https://github.com/moeindoust/Badsaba-Ad-Recommender.git
+cd Badsaba-Ad-Recommender
 ```
 
 ۲. **نصب کتابخانه‌های مورد نیاز:**
@@ -108,6 +108,7 @@ python run_pipeline.py
 
 
 **ساختار ریپازیتوری:**
+```bash
 ├── data/
 │   ├── raw/
 │   │   └── (All original csv, npy, and txt files...)
@@ -131,6 +132,7 @@ python run_pipeline.py
 ├── README.md
 ├── requirements.txt
 └── run_pipeline.py
+```
 
 **توسعه‌دهنده:**  
 [moeindoust](https://github.com/moeindoust)
